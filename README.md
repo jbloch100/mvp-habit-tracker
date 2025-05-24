@@ -3,7 +3,7 @@
 A minimalist daily habit tracker app built from vague specs — simulating real-world product development environments like those at Fetch.
 
 ## Live Demo
-[https://mvp-habit-tracker.vercel.app](https://mvp-habit-tracker.vercel.app) *(placeholder)*
+[https://mvp-habit-tracker.vercel.app](https://mvp-habit-tracker.vercel.app/)
 
 ## Features
 - Add daily habits
