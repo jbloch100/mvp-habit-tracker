@@ -1,0 +1,33 @@
+{
+  "name": "mvp-habit-tracker",
+  "version": "1.0.0",
+  "description": "A minimalist daily habit tracker app built from vague specs — simulating real-world product development environments like those at Fetch.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbloch100/mvp-habit-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbloch100/mvp-habit-tracker/issues"
+  },
+  "homepage": "https://github.com/jbloch100/mvp-habit-tracker#readme",
+  "devDependencies": {
+    "@types/react": "^19.1.5",
+    "@types/react-dom": "^19.1.5",
+    "@vitejs/plugin-react": "^4.5.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
